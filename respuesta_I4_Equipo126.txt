@@ -6,3 +6,15 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 En blue
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 Nos quedaron 2 favicons a ALFA y BETA
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Si, BETA y GAMMA
+F- ¿Qué problemas surgieron?
+No permite realizar un push normal sin pullear los cambios que realizados por ALFA
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+La mejor solucion es pullear los cambios realizados por la anterior persona antes de pushear los cambios
+H- ¿Qué sucede si cada uno utiliza el push -f?
+El push -f fuerza el pusheo, sobreescribiendo el archivo que se esta modificando
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Una de las personas deberia pullear todos los cambios hechos a TESTING para despues mergear TESTING con DESARROLLO
